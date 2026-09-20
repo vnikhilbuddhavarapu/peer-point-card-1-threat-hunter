@@ -1,0 +1,115 @@
+docs/brief.md
+  s_d2608fccc9884f::t_c58cd873fc0b2e 1-1110
+docs/terminology.md
+  s_d2608fccc9884f::t_7b0d04622542d7 1-28
+eslint.config.mjs
+  s_d2608fccc9884f::t_1399c8b7a881c9 1-39
+package-lock.json
+  s_d2608fccc9884f::t_22c30e5acd91dd 1-9028
+packages/workshop-ui/src/message-list.tsx
+  s_d2608fccc9884f::t_3124c43f2a0c34 1-36
+packages/workshop-ui/src/status-banner.tsx
+  s_d2608fccc9884f::t_2417bb8bd53f48 1-20
+packages/workshop-ui/src/styles.css
+  s_d2608fccc9884f::t_1335e613c73f75 1-254
+packages/workshop-ui/test/workshop-shell.test.tsx
+  s_d2608fccc9884f::t_e6024c2d4399f8 1-54
+tools/model-conformance/package.json
+  s_d2608fccc9884f::t_9f2b618db9ee1d 1-25
+tools/model-conformance/scripts/run.mjs
+  s_d2608fccc9884f::t_75da9e0f13c99a 1-38
+tools/model-conformance/src/schemas.ts
+  s_d2608fccc9884f::t_65435225c78c58 1-34
+tools/model-conformance/src/server.ts
+  s_d2608fccc9884f::t_19f53f84a90773 1-75
+.env.example
+  s_0db04e28a91e28::t_f4917a453cd16e 1-3
+.gitattributes
+  s_0db04e28a91e28::t_cdee1d06ef87a1 1
+.github/workflows/verify.yml
+  s_0db04e28a91e28::t_3fafa4f7d2a78d 1-18
+.gitignore
+  s_0db04e28a91e28::t_dc0dfdc02e406a 1-16
+.nvmrc
+  s_0db04e28a91e28::t_cb25b26731892e 1
+.prettierignore
+  s_0db04e28a91e28::t_36d90e9a5218ed 1-6
+AGENTS.md
+  s_0db04e28a91e28::t_d6f82429c687ef 1-29
+README.md
+  s_0db04e28a91e28::t_06009b12f819f3 1-38
+docs/dependency-baseline.md
+  s_0db04e28a91e28::t_404968b94d67f6 1-21
+docs/phase-1.md
+  s_0db04e28a91e28::t_4d532ecbae1781 1-48
+package.json
+  s_0db04e28a91e28::t_42b7d70dcf5f59 1-43
+packages/workshop-config/package.json
+  s_0db04e28a91e28::t_f791c1efdd2819 1-20
+packages/workshop-config/src/index.ts
+  s_0db04e28a91e28::t_b4234c0642c4c9 1-10
+packages/workshop-config/src/models.ts
+  s_0db04e28a91e28::t_8c65857f0c1cfb 1-64
+packages/workshop-config/test/models.test.ts
+  s_0db04e28a91e28::t_ee5f076af14a3f 1-35
+packages/workshop-config/tsconfig.build.json
+  s_0db04e28a91e28::t_b75fe87602d5d6 1-12
+packages/workshop-config/tsconfig.json
+  s_0db04e28a91e28::t_faf263a652a0c7 1-7
+packages/workshop-ui/package.json
+  s_0db04e28a91e28::t_07d2ca3688bd91 1-24
+packages/workshop-ui/src/index.ts
+  s_0db04e28a91e28::t_79d93b96a01790 1-10
+packages/workshop-ui/src/model-selector.tsx
+  s_0db04e28a91e28::t_b1fbe3a67f493e 1-31
+packages/workshop-ui/src/types.ts
+  s_0db04e28a91e28::t_a8d07dca8c9322 1-36
+packages/workshop-ui/src/workshop-shell.tsx
+  s_0db04e28a91e28::t_d6f92c0da1392e 1-83
+packages/workshop-ui/tsconfig.build.json
+  s_0db04e28a91e28::t_fd15b02d32607a 1-12
+packages/workshop-ui/tsconfig.json
+  s_0db04e28a91e28::t_a7203b8fed83e3 1-9
+prettier.config.mjs
+  s_0db04e28a91e28::t_2b7f5fb707af66 1-6
+tools/model-conformance/README.md
+  s_0db04e28a91e28::t_a8f25e48587bb4 1-39
+tools/model-conformance/src/conformance.ts
+  s_0db04e28a91e28::t_1e6887e2d2dac7 1-130
+tools/model-conformance/src/logger.ts
+  s_0db04e28a91e28::t_a7f03f7aa2b733 1-16
+tools/model-conformance/test/schemas.test.ts
+  s_0db04e28a91e28::t_cfcee4ad647858 1-21
+tools/model-conformance/tsconfig.json
+  s_0db04e28a91e28::t_790054d8c11a1d 1-8
+tools/model-conformance/worker-configuration.d.ts
+  s_0db04e28a91e28::t_1189ffe002c069 1-15396
+tools/model-conformance/wrangler.jsonc
+  s_0db04e28a91e28::t_fab59daa1eb543 1-26
+tsconfig.base.json
+  s_0db04e28a91e28::t_6fad5b5ca43d59 1-20
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.6.10",
+  "base_commit_sha": "2a8f92cc87d13faa0c9890f2c7ef310a9ad625ff",
+  "prompts": {},
+  "sessions": {
+    "s_0db04e28a91e28": {
+      "agent_id": {
+        "tool": "devin",
+        "id": "s_0db04e28a91e28",
+        "model": "unknown"
+      },
+      "human_author": "Nikhil <vnikhilbuddhavarapu@outlook.com>"
+    },
+    "s_d2608fccc9884f": {
+      "agent_id": {
+        "tool": "windsurf",
+        "id": "navy-scion",
+        "model": "unknown"
+      },
+      "human_author": "Nikhil <vnikhilbuddhavarapu@outlook.com>"
+    }
+  }
+}
