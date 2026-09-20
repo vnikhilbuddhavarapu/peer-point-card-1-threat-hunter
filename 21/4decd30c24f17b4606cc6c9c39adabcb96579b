@@ -1,0 +1,131 @@
+package-lock.json
+  s_d2608fccc9884f::t_89e02f52f09903 11-12,2365-2368,2802-2810,2818-2826,3119-3124,3887-3916,3970-3979,4573-4582,5170-5209,5227-5236,5340-5345,5366-5389,5402-5411,5435-5444,6141-6200,6215-6235,7260-7284,7503-7512,7704-7730,7781-7797,8261-8270,8316-8329,8361-8378,8535-8544,8770-8782,9351-9353,9392-9394,9411-9436
+packages/workshop-ui/package.json
+  s_d2608fccc9884f::t_e780906bfa9ca6 22-24
+packages/workshop-ui/src/icons.tsx
+  s_d2608fccc9884f::t_a2b6df5c80c37e 1-59
+packages/workshop-ui/src/workshop-shell.tsx
+  s_d2608fccc9884f::t_4e94ce0c715f6c 1-3,19-20,26,28,31-36,41,45,47,50,59-110
+walkthrough/src/agent/tools/index.ts
+  s_d2608fccc9884f::t_344a5729f03ff8 1-30
+walkthrough/src/client/components/dashboard.tsx
+  s_d2608fccc9884f::t_758e045acdb328 1-26
+walkthrough/src/client/components/lifecycle-panel.tsx
+  s_d2608fccc9884f::t_655c6b09b40226 1-75
+walkthrough/src/client/components/storage-map.tsx
+  s_d2608fccc9884f::t_c0b264818b6886 1-54
+walkthrough/src/client/styles.css
+  s_d2608fccc9884f::t_1666a8931d4777 1-280
+walkthrough/src/services/workshop-status.ts
+  s_d2608fccc9884f::t_52ac84cd4708ca 1-71
+walkthrough/src/shared/smoke.ts
+  s_d2608fccc9884f::t_7c9ea03d7de5e2 1-16
+walkthrough/worker-configuration.d.ts
+  s_d2608fccc9884f::t_15d7123595ddcc 1-15400
+walkthrough/wrangler.jsonc
+  s_d2608fccc9884f::t_bfe3703af7501d 1-45
+README.md
+  s_cb2f110eb9ef6b::t_af067f43fc4dae 11,13-18,36-37
+docs/brief.md
+  s_cb2f110eb9ef6b::t_f90e838fa9a068 361,393,413,596
+docs/instructor-guide.md
+  s_cb2f110eb9ef6b::t_27b3464c13b86c 1-144
+docs/phase-2.md
+  s_cb2f110eb9ef6b::t_3f6d2cdfbb7a80 1-48
+docs/terminology.md
+  s_cb2f110eb9ef6b::t_8ae87db6a6ded6 25-26
+package.json
+  s_cb2f110eb9ef6b::t_580b0f8e0ef772 8-9,22-24
+packages/workshop-ui/src/index.ts
+  s_cb2f110eb9ef6b::t_d0e386e6d710db 1,5
+packages/workshop-ui/src/markdown.tsx
+  s_cb2f110eb9ef6b::t_7fcf30cc414deb 1-19
+packages/workshop-ui/src/message-list.tsx
+  s_cb2f110eb9ef6b::t_1df4aa3e94b7a1 1-3,8,11-29,33-67
+packages/workshop-ui/src/status-banner.tsx
+  s_cb2f110eb9ef6b::t_a80e96c56f1ec8 6-7,12-13,19-23
+packages/workshop-ui/src/styles.css
+  s_cb2f110eb9ef6b::t_1f60c397d890f0 2-3,13-19,28-29,38-62,65,71,73-74,80,82-87,91-94,98,100-106,110-111,113,118-122,126-133,136-138,143,145,147-154,158-159,161,166,169-171,176-177,184-192,194-202,205-206,213-215,219-221,228-238,242-243,246-311,315-323,325-386,388-424,428-433,437-438,441-467,471-479,482-486,489-505,509-516,518-538,542-549,554,558-563,566-609,615-616,620-640,644-651,653-654,658-668
+packages/workshop-ui/src/tool-call-card.tsx
+  s_cb2f110eb9ef6b::t_e94ebfea850743 1-51
+packages/workshop-ui/src/types.ts
+  s_cb2f110eb9ef6b::t_d3e4deb7fc2b66 4,13-14,33-34,40
+packages/workshop-ui/test/message-list.test.tsx
+  s_cb2f110eb9ef6b::t_fe72425987db8d 1-43
+walkthrough/README.md
+  s_cb2f110eb9ef6b::t_8e7b55217eb585 1-94
+walkthrough/index.html
+  s_cb2f110eb9ef6b::t_0ca556bbeb8936 1-13
+walkthrough/package.json
+  s_cb2f110eb9ef6b::t_9339e34189b9ad 1-42
+walkthrough/scripts/remote-smoke.mjs
+  s_cb2f110eb9ef6b::t_df5d3ded5e3a4a 1-91
+walkthrough/scripts/smoke.mjs
+  s_cb2f110eb9ef6b::t_8639b28548e8b5 1-43
+walkthrough/src/agent/agent.ts
+  s_cb2f110eb9ef6b::t_ff7d75ad8884fe 1-208
+walkthrough/src/agent/context.ts
+  s_cb2f110eb9ef6b::t_7a85b31892e900 1-27
+walkthrough/src/agent/model.ts
+  s_cb2f110eb9ef6b::t_114f305b3bb533 1-20
+walkthrough/src/agent/state.ts
+  s_cb2f110eb9ef6b::t_2ef1fa6a0493a3 1-95
+walkthrough/src/client.tsx
+  s_cb2f110eb9ef6b::t_a16fc2e00f8324 1-16
+walkthrough/src/client/app.tsx
+  s_cb2f110eb9ef6b::t_30a3588101f266 1-127
+walkthrough/src/client/components/findings-panel.tsx
+  s_cb2f110eb9ef6b::t_462fc2fec242c3 1-26
+walkthrough/src/client/components/memory-panel.tsx
+  s_cb2f110eb9ef6b::t_ec20b6da557f8c 1-22
+walkthrough/src/client/components/metrics.tsx
+  s_cb2f110eb9ef6b::t_fcfc4f9bbf3a9e 1-20
+walkthrough/src/client/components/panel.tsx
+  s_cb2f110eb9ef6b::t_670f9303b979e0 1-19
+walkthrough/src/client/lib/messages.ts
+  s_cb2f110eb9ef6b::t_40c8bd4460c05f 1-61
+walkthrough/src/server.ts
+  s_cb2f110eb9ef6b::t_1195d25d0ed5da 1-38
+walkthrough/src/shared/http.ts
+  s_cb2f110eb9ef6b::t_48b625f51a6365 1-16
+walkthrough/src/shared/logger.ts
+  s_cb2f110eb9ef6b::t_920da6cd2943fe 1-21
+walkthrough/test/lifecycle.test.ts
+  s_cb2f110eb9ef6b::t_01a64591d2ddb0 1-30
+walkthrough/test/messages.test.ts
+  s_cb2f110eb9ef6b::t_3dd828ed643f6d 1-76
+walkthrough/test/state.test.ts
+  s_cb2f110eb9ef6b::t_2f4ce47cf3d3a1 1-35
+walkthrough/test/workshop-status.test.ts
+  s_cb2f110eb9ef6b::t_c612a493f10524 1-15
+walkthrough/tsconfig.json
+  s_cb2f110eb9ef6b::t_cda13917c43b57 1-16
+walkthrough/vite.config.ts
+  s_cb2f110eb9ef6b::t_a5c2c1d8957231 1-8
+walkthrough/vitest.config.ts
+  s_cb2f110eb9ef6b::t_c32aa0337d1153 1-7
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.6.10",
+  "base_commit_sha": "214decd30c24f17b4606cc6c9c39adabcb96579b",
+  "prompts": {},
+  "sessions": {
+    "s_cb2f110eb9ef6b": {
+      "agent_id": {
+        "tool": "devin",
+        "id": "s_cb2f110eb9ef6b",
+        "model": "unknown"
+      },
+      "human_author": "Nikhil <vnikhilbuddhavarapu@outlook.com>"
+    },
+    "s_d2608fccc9884f": {
+      "agent_id": {
+        "tool": "windsurf",
+        "id": "navy-scion",
+        "model": "unknown"
+      },
+      "human_author": "Nikhil <vnikhilbuddhavarapu@outlook.com>"
+    }
+  }
+}
