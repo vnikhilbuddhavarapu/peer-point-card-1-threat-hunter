@@ -1,0 +1,693 @@
+docs/phase-5.md
+  s_d2608fccc9884f::t_0a8ff39519a314 1-76
+starter-overlays/card-3-inbox-agent/overlay.json
+  s_d2608fccc9884f::t_b81d87644ce57a 1-43
+starter-overlays/card-3-inbox-agent/wrangler.jsonc
+  s_d2608fccc9884f::t_1050c1ef456cad 1-31
+starter-overlays/card-4-cross-system/test/state.test.ts
+  s_d2608fccc9884f::t_2a17a0006dbe21 1-66
+starter-overlays/card-5-watcher/overlay.json
+  s_d2608fccc9884f::t_75ad421f4aa930 1-62
+starters/card-1-threat-hunter/.gitignore
+  s_d2608fccc9884f::t_a320958caf752e 1-16
+starters/card-1-threat-hunter/.nvmrc
+  s_d2608fccc9884f::t_5a171733d7a7d1 1
+starters/card-1-threat-hunter/.prettierignore
+  s_d2608fccc9884f::t_fd449a0818378e 1-13
+starters/card-1-threat-hunter/README.md
+  s_d2608fccc9884f::t_2f1f7ca4a1e6a6 1-150
+starters/card-1-threat-hunter/eslint.config.mjs
+  s_d2608fccc9884f::t_5c99a91c64a17e 1-46
+starters/card-1-threat-hunter/index.html
+  s_d2608fccc9884f::t_adabbe26484cd3 1-13
+starters/card-1-threat-hunter/packages/workshop-config/package.json
+  s_d2608fccc9884f::t_80fb7bc5ac349d 1-20
+starters/card-1-threat-hunter/packages/workshop-config/src/index.ts
+  s_d2608fccc9884f::t_1fe63d72dddf0d 1-10
+starters/card-1-threat-hunter/packages/workshop-config/src/models.ts
+  s_d2608fccc9884f::t_a05f08efcc782b 1-64
+starters/card-1-threat-hunter/packages/workshop-config/test/models.test.ts
+  s_d2608fccc9884f::t_5a64382708f499 1-35
+starters/card-1-threat-hunter/packages/workshop-config/tsconfig.build.json
+  s_d2608fccc9884f::t_9c1ffba47b56f8 1-12
+starters/card-1-threat-hunter/packages/workshop-config/tsconfig.json
+  s_d2608fccc9884f::t_60308d6684aa7d 1-7
+starters/card-1-threat-hunter/packages/workshop-ui/src/icons.tsx
+  s_d2608fccc9884f::t_cdbe9472e77c4b 1-59
+starters/card-1-threat-hunter/packages/workshop-ui/src/index.ts
+  s_d2608fccc9884f::t_3bd2e5319862c6 1-12
+starters/card-1-threat-hunter/packages/workshop-ui/src/markdown.tsx
+  s_d2608fccc9884f::t_390132ec810231 1-19
+starters/card-1-threat-hunter/packages/workshop-ui/src/message-list.tsx
+  s_d2608fccc9884f::t_414a0b18062973 1-69
+starters/card-1-threat-hunter/packages/workshop-ui/src/model-selector.tsx
+  s_d2608fccc9884f::t_0c3a78a7bc5cfa 1-31
+starters/card-1-threat-hunter/packages/workshop-ui/src/status-banner.tsx
+  s_d2608fccc9884f::t_132b87c840892e 1-27
+starters/card-1-threat-hunter/packages/workshop-ui/src/styles.css
+  s_d2608fccc9884f::t_6f9780db34d444 1-668
+starters/card-1-threat-hunter/packages/workshop-ui/src/tool-call-card.tsx
+  s_d2608fccc9884f::t_9c4b67d72df484 1-51
+starters/card-1-threat-hunter/packages/workshop-ui/src/types.ts
+  s_d2608fccc9884f::t_d8daca90045048 1-41
+starters/card-1-threat-hunter/packages/workshop-ui/src/workshop-shell.tsx
+  s_d2608fccc9884f::t_21b70d83293ae4 1-117
+starters/card-1-threat-hunter/packages/workshop-ui/test/message-list.test.tsx
+  s_d2608fccc9884f::t_e0492843eab4db 1-43
+starters/card-1-threat-hunter/packages/workshop-ui/test/workshop-shell.test.tsx
+  s_d2608fccc9884f::t_d4ef773e763903 1-54
+starters/card-1-threat-hunter/packages/workshop-ui/tsconfig.build.json
+  s_d2608fccc9884f::t_3667d7dfe0a0ba 1-12
+starters/card-1-threat-hunter/packages/workshop-ui/tsconfig.json
+  s_d2608fccc9884f::t_a92543ba861425 1-9
+starters/card-1-threat-hunter/prettier.config.mjs
+  s_d2608fccc9884f::t_c56fdc7bf3c00e 1-6
+starters/card-1-threat-hunter/src/agent/agent.ts
+  s_d2608fccc9884f::t_995e0107ee3194 1-191
+starters/card-1-threat-hunter/src/agent/context.ts
+  s_d2608fccc9884f::t_a10c7a265756a0 1-19
+starters/card-1-threat-hunter/src/agent/model.ts
+  s_d2608fccc9884f::t_f4c3a1380ff748 1-20
+starters/card-1-threat-hunter/src/agent/state.ts
+  s_d2608fccc9884f::t_3e6ae2c8d7f8d9 1-165
+starters/card-1-threat-hunter/src/agent/tools/index.ts
+  s_d2608fccc9884f::t_1badff72ff8364 1-151
+starters/card-1-threat-hunter/src/client.tsx
+  s_d2608fccc9884f::t_726bc10155197c 1-16
+starters/card-1-threat-hunter/src/client/app.tsx
+  s_d2608fccc9884f::t_f52808e77954a1 1-100
+starters/card-1-threat-hunter/src/client/components/threat-dashboard.tsx
+  s_d2608fccc9884f::t_f4a1486b00e6b4 1-413
+starters/card-1-threat-hunter/src/client/lib/messages.ts
+  s_d2608fccc9884f::t_01cd3681f4b576 1-61
+starters/card-1-threat-hunter/src/client/styles.css
+  s_d2608fccc9884f::t_e1bc9dff41b267 1-505
+starters/card-1-threat-hunter/src/server.ts
+  s_d2608fccc9884f::t_575a82c8877923 1-51
+starters/card-1-threat-hunter/src/services/fallback.ts
+  s_d2608fccc9884f::t_ad631ed87646a7 1-41
+starters/card-1-threat-hunter/src/services/log-api.ts
+  s_d2608fccc9884f::t_0ead5b37f66c31 1-302
+starters/card-1-threat-hunter/src/shared/http.ts
+  s_d2608fccc9884f::t_8d84d30193bf70 1-16
+starters/card-1-threat-hunter/src/shared/logger.ts
+  s_d2608fccc9884f::t_5c9750a8bea4ae 1-22
+starters/card-1-threat-hunter/src/shared/smoke.ts
+  s_d2608fccc9884f::t_a25b132e82640f 1-15
+starters/card-1-threat-hunter/test/starter.test.ts
+  s_d2608fccc9884f::t_f2de90c00b453e 1-153
+starters/card-1-threat-hunter/tsconfig.base.json
+  s_d2608fccc9884f::t_d89c0e397777b5 1-20
+starters/card-1-threat-hunter/tsconfig.json
+  s_d2608fccc9884f::t_a47b80ce8bfb88 1-17
+starters/card-1-threat-hunter/vite.config.ts
+  s_d2608fccc9884f::t_25a89a8a09580d 1-8
+starters/card-1-threat-hunter/vitest.config.ts
+  s_d2608fccc9884f::t_acf8ad93a81f64 1-7
+starters/card-1-threat-hunter/wrangler.jsonc
+  s_d2608fccc9884f::t_7c797794845b58 1-46
+.prettierignore
+  s_d4038592fd1ebe::t_ea6601f21e622a 9-10
+README.md
+  s_d4038592fd1ebe::t_f5a78ad8cf41a2 11,13-17,47
+config/montreal.json
+  s_d4038592fd1ebe::t_fb6678e99a836a 1-31
+eslint.config.mjs
+  s_d4038592fd1ebe::t_9fcd12ff7ddc60 7-14
+package.json
+  s_d4038592fd1ebe::t_fcd96557a434ce 33-34
+scripts/derive-starters.mjs
+  s_d4038592fd1ebe::t_ec74b44a3272aa 1-209
+scripts/verify-starters.mjs
+  s_d4038592fd1ebe::t_c22fc9b0262f01 1-54
+starter-overlays/card-1-threat-hunter/README.md
+  s_d4038592fd1ebe::t_b7e248a7b716da 1-126
+starter-overlays/card-1-threat-hunter/overlay.json
+  s_d4038592fd1ebe::t_19ba7f3fd536f8 1-27
+starter-overlays/card-1-threat-hunter/src/agent/context.ts
+  s_d4038592fd1ebe::t_ec81bac68fa9e4 1-19
+starter-overlays/card-1-threat-hunter/src/agent/tools/index.ts
+  s_d4038592fd1ebe::t_e8a290058cdc6b 1-151
+starter-overlays/card-1-threat-hunter/src/services/fallback.ts
+  s_d4038592fd1ebe::t_ca587ca8ff0c8f 1-41
+starter-overlays/card-1-threat-hunter/src/services/log-api.ts
+  s_d4038592fd1ebe::t_ea6cab39c44f62 1-302
+starter-overlays/card-1-threat-hunter/test/starter.test.ts
+  s_d4038592fd1ebe::t_9a3313c005b7ae 1-153
+starter-overlays/card-2-code-review/README.md
+  s_d4038592fd1ebe::t_5862f5d451916e 1-138
+starter-overlays/card-2-code-review/overlay.json
+  s_d4038592fd1ebe::t_ad53fe26d4be6e 1-22
+starter-overlays/card-2-code-review/package.json
+  s_d4038592fd1ebe::t_30797fda8d22cf 1-40
+starter-overlays/card-2-code-review/src/agent/context.ts
+  s_d4038592fd1ebe::t_2dff0abb562496 1-21
+starter-overlays/card-2-code-review/src/services/sandbox.ts
+  s_d4038592fd1ebe::t_5f09f617a2d674 1-384
+starter-overlays/card-2-code-review/test/workshop-contract.test.ts
+  s_d4038592fd1ebe::t_9a5097e131fb00 1-127
+starter-overlays/card-3-inbox-agent/.dev.vars.example
+  s_d4038592fd1ebe::t_ad127ca1966e57 1-2
+starter-overlays/card-3-inbox-agent/README.md
+  s_d4038592fd1ebe::t_67b2bb9108198c 1-115
+starter-overlays/card-3-inbox-agent/package.json
+  s_d4038592fd1ebe::t_85574c0f98b997 1-40
+starter-overlays/card-3-inbox-agent/src/agent/agent.ts
+  s_d4038592fd1ebe::t_9bfd5d8c4f74b2 1-315
+starter-overlays/card-3-inbox-agent/src/agent/context.ts
+  s_d4038592fd1ebe::t_671d7f41c9f7b3 1-40
+starter-overlays/card-3-inbox-agent/src/agent/workshop.ts
+  s_d4038592fd1ebe::t_caae818b9d0064 1-69
+starter-overlays/card-3-inbox-agent/test/workshop.test.ts
+  s_d4038592fd1ebe::t_c779455588d4a8 1-62
+starter-overlays/card-4-cross-system/README.md
+  s_d4038592fd1ebe::t_732b5d5a02d6c5 1-135
+starter-overlays/card-4-cross-system/overlay.json
+  s_d4038592fd1ebe::t_34c3aec928ef18 1-57
+starter-overlays/card-4-cross-system/package.json
+  s_d4038592fd1ebe::t_d8b3ac449966e9 1-42
+starter-overlays/card-4-cross-system/scripts/remote-smoke.mjs
+  s_d4038592fd1ebe::t_76001afbeb78e6 1-23
+starter-overlays/card-4-cross-system/src/agent/agent.ts
+  s_d4038592fd1ebe::t_0df685543b08e5 1-217
+starter-overlays/card-4-cross-system/src/agent/context.ts
+  s_d4038592fd1ebe::t_c4b6fa924de396 1-29
+starter-overlays/card-4-cross-system/src/agent/evidence.ts
+  s_d4038592fd1ebe::t_2808b9822f3ca4 1-104
+starter-overlays/card-4-cross-system/test/cross-system-dashboard.test.tsx
+  s_d4038592fd1ebe::t_cae938f085b7a0 1-47
+starter-overlays/card-4-cross-system/test/evidence.test.ts
+  s_d4038592fd1ebe::t_a67f7b69cacae6 1-69
+starter-overlays/card-4-cross-system/wrangler.jsonc
+  s_d4038592fd1ebe::t_209f811fc15236 1-28
+starter-overlays/card-5-watcher/README.md
+  s_d4038592fd1ebe::t_7182b229c0b723 1-139
+starter-overlays/card-5-watcher/src/agent/agent.ts
+  s_d4038592fd1ebe::t_044b50861c9c98 1-138
+starter-overlays/card-5-watcher/src/agent/state.ts
+  s_d4038592fd1ebe::t_fe162fe273b8e6 1-146
+starter-overlays/card-5-watcher/src/services/materiality.ts
+  s_d4038592fd1ebe::t_72ee92eb546091 1-39
+starter-overlays/card-5-watcher/test/starter.test.ts
+  s_d4038592fd1ebe::t_0ba644b52cc39a 1-55
+starter-overlays/hub/README.md
+  s_d4038592fd1ebe::t_736dbc5f74ff03 1-56
+starters/card-1-threat-hunter/package-lock.json
+  s_d4038592fd1ebe::t_51b450cf4b5e38 1-9815
+starters/card-1-threat-hunter/package.json
+  s_d4038592fd1ebe::t_5869f9be9c21cc 1-54
+starters/card-1-threat-hunter/packages/workshop-ui/package.json
+  s_d4038592fd1ebe::t_4bdf705b075cb0 1-20
+starters/card-1-threat-hunter/starter.json
+  s_d4038592fd1ebe::t_90517e9eae3b2f 1-11
+starters/card-1-threat-hunter/worker-configuration.d.ts
+  s_d4038592fd1ebe::t_f6ec63ae225d7e 1-15401
+starters/card-2-code-review/.gitignore
+  s_d4038592fd1ebe::t_41677202a1e105 1-16
+starters/card-2-code-review/.nvmrc
+  s_d4038592fd1ebe::t_6058b311863cf1 1
+starters/card-2-code-review/.prettierignore
+  s_d4038592fd1ebe::t_291af789bce366 1-13
+starters/card-2-code-review/Dockerfile
+  s_d4038592fd1ebe::t_446d0c4eedc837 1-10
+starters/card-2-code-review/README.md
+  s_d4038592fd1ebe::t_6115dfea0895c7 1-162
+starters/card-2-code-review/eslint.config.mjs
+  s_d4038592fd1ebe::t_a989d319bc520a 1-46
+starters/card-2-code-review/fixtures/sample-repo/README.md
+  s_d4038592fd1ebe::t_6b99d17b126964 1-3
+starters/card-2-code-review/fixtures/sample-repo/package.json
+  s_d4038592fd1ebe::t_9a0e1127f03aae 1-10
+starters/card-2-code-review/fixtures/sample-repo/src/order.js
+  s_d4038592fd1ebe::t_8a40d078a1bd51 1-8
+starters/card-2-code-review/fixtures/sample-repo/src/server.js
+  s_d4038592fd1ebe::t_fd8411e67d9985 1-11
+starters/card-2-code-review/fixtures/sample-repo/test/order.test.js
+  s_d4038592fd1ebe::t_8ac11c18cf1424 1-16
+starters/card-2-code-review/index.html
+  s_d4038592fd1ebe::t_84ab54bbafbc64 1-13
+starters/card-2-code-review/package-lock.json
+  s_d4038592fd1ebe::t_ba9592404ef4eb 1-9830
+starters/card-2-code-review/package.json
+  s_d4038592fd1ebe::t_9d5380f1b50a5a 1-58
+starters/card-2-code-review/packages/workshop-config/package.json
+  s_d4038592fd1ebe::t_597acb4b973537 1-20
+starters/card-2-code-review/packages/workshop-config/src/index.ts
+  s_d4038592fd1ebe::t_54c9f210e1ae70 1-10
+starters/card-2-code-review/packages/workshop-config/src/models.ts
+  s_d4038592fd1ebe::t_7f96eaae6bf771 1-64
+starters/card-2-code-review/packages/workshop-config/test/models.test.ts
+  s_d4038592fd1ebe::t_eb9b0a05f035b5 1-35
+starters/card-2-code-review/packages/workshop-config/tsconfig.build.json
+  s_d4038592fd1ebe::t_5613c7a38014ee 1-12
+starters/card-2-code-review/packages/workshop-config/tsconfig.json
+  s_d4038592fd1ebe::t_1fc614e0da5d8c 1-7
+starters/card-2-code-review/packages/workshop-ui/package.json
+  s_d4038592fd1ebe::t_f8fbf16d45a20f 1-20
+starters/card-2-code-review/packages/workshop-ui/src/icons.tsx
+  s_d4038592fd1ebe::t_a28a48e388be50 1-59
+starters/card-2-code-review/packages/workshop-ui/src/index.ts
+  s_d4038592fd1ebe::t_792b450367b698 1-12
+starters/card-2-code-review/packages/workshop-ui/src/markdown.tsx
+  s_d4038592fd1ebe::t_69d126ad24d3f7 1-19
+starters/card-2-code-review/packages/workshop-ui/src/message-list.tsx
+  s_d4038592fd1ebe::t_46de17d6a1e6c0 1-69
+starters/card-2-code-review/packages/workshop-ui/src/model-selector.tsx
+  s_d4038592fd1ebe::t_57a452795e872e 1-31
+starters/card-2-code-review/packages/workshop-ui/src/status-banner.tsx
+  s_d4038592fd1ebe::t_b276864f886cef 1-27
+starters/card-2-code-review/packages/workshop-ui/src/styles.css
+  s_d4038592fd1ebe::t_1362e470002f55 1-668
+starters/card-2-code-review/packages/workshop-ui/src/tool-call-card.tsx
+  s_d4038592fd1ebe::t_4426c98d474f7b 1-51
+starters/card-2-code-review/packages/workshop-ui/src/types.ts
+  s_d4038592fd1ebe::t_333d661bfa6a43 1-41
+starters/card-2-code-review/packages/workshop-ui/src/workshop-shell.tsx
+  s_d4038592fd1ebe::t_94068ca3903e68 1-117
+starters/card-2-code-review/packages/workshop-ui/test/message-list.test.tsx
+  s_d4038592fd1ebe::t_2c4bca869ab612 1-43
+starters/card-2-code-review/packages/workshop-ui/test/workshop-shell.test.tsx
+  s_d4038592fd1ebe::t_8c09d88976d7cb 1-54
+starters/card-2-code-review/packages/workshop-ui/tsconfig.build.json
+  s_d4038592fd1ebe::t_9340f2a36bde18 1-12
+starters/card-2-code-review/packages/workshop-ui/tsconfig.json
+  s_d4038592fd1ebe::t_e3a802346aa699 1-9
+starters/card-2-code-review/prettier.config.mjs
+  s_d4038592fd1ebe::t_cb2393ca0cda6d 1-6
+starters/card-2-code-review/src/agent/agent.ts
+  s_d4038592fd1ebe::t_4999345c2146f5 1-242
+starters/card-2-code-review/src/agent/context.ts
+  s_d4038592fd1ebe::t_b9013bc29c573b 1-21
+starters/card-2-code-review/src/agent/model.ts
+  s_d4038592fd1ebe::t_39053bf580b24b 1-20
+starters/card-2-code-review/src/agent/state.ts
+  s_d4038592fd1ebe::t_40a8e393a45c1b 1-220
+starters/card-2-code-review/src/agent/tools/index.ts
+  s_d4038592fd1ebe::t_2cf3e8c1db6019 1-164
+starters/card-2-code-review/src/client.tsx
+  s_d4038592fd1ebe::t_f362b2643c40d5 1-16
+starters/card-2-code-review/src/client/app.tsx
+  s_d4038592fd1ebe::t_0be4de1e983055 1-90
+starters/card-2-code-review/src/client/components/review-dashboard.tsx
+  s_d4038592fd1ebe::t_4889256c7487cc 1-510
+starters/card-2-code-review/src/client/lib/messages.ts
+  s_d4038592fd1ebe::t_7c7427ac5755fb 1-61
+starters/card-2-code-review/src/client/styles.css
+  s_d4038592fd1ebe::t_3a58c70d88a0a4 1-693
+starters/card-2-code-review/src/server.ts
+  s_d4038592fd1ebe::t_48bbe481cc79ed 1-56
+starters/card-2-code-review/src/services/sandbox.ts
+  s_d4038592fd1ebe::t_357415638c00a7 1-384
+starters/card-2-code-review/src/shared/http.ts
+  s_d4038592fd1ebe::t_8ff7d786d04229 1-16
+starters/card-2-code-review/src/shared/logger.ts
+  s_d4038592fd1ebe::t_46ed28befe6ad0 1-22
+starters/card-2-code-review/src/shared/review-contracts.ts
+  s_d4038592fd1ebe::t_e08837d3227e47 1-16
+starters/card-2-code-review/src/shared/smoke.ts
+  s_d4038592fd1ebe::t_3d56a38ea549df 1-13
+starters/card-2-code-review/starter.json
+  s_d4038592fd1ebe::t_26e81bfc4b84d1 1-7
+starters/card-2-code-review/test/messages-ui.test.tsx
+  s_d4038592fd1ebe::t_64c7a528e1a0d4 1-95
+starters/card-2-code-review/test/review-dashboard.test.tsx
+  s_d4038592fd1ebe::t_1eeff7024b4572 1-137
+starters/card-2-code-review/test/state.test.ts
+  s_d4038592fd1ebe::t_5d9f82d064904d 1-133
+starters/card-2-code-review/test/workshop-contract.test.ts
+  s_d4038592fd1ebe::t_083bb0f38b194d 1-127
+starters/card-2-code-review/tsconfig.base.json
+  s_d4038592fd1ebe::t_4c5e2f6b4a2a11 1-20
+starters/card-2-code-review/tsconfig.json
+  s_d4038592fd1ebe::t_e239d6f81c27e8 1-17
+starters/card-2-code-review/vite.config.ts
+  s_d4038592fd1ebe::t_aca7882f1cedf5 1-8
+starters/card-2-code-review/vitest.config.ts
+  s_d4038592fd1ebe::t_fba3d6b213be34 1-7
+starters/card-2-code-review/worker-configuration.d.ts
+  s_d4038592fd1ebe::t_7eab3b3c62e25f 1-15403
+starters/card-2-code-review/wrangler.jsonc
+  s_d4038592fd1ebe::t_30af1bcbe74747 1-59
+starters/card-3-inbox-agent/.dev.vars.example
+  s_d4038592fd1ebe::t_b7614a5daeb9e4 1-2
+starters/card-3-inbox-agent/.gitignore
+  s_d4038592fd1ebe::t_4aaf5a7ba530ed 1-16
+starters/card-3-inbox-agent/.nvmrc
+  s_d4038592fd1ebe::t_4ed6da62b30153 1
+starters/card-3-inbox-agent/.prettierignore
+  s_d4038592fd1ebe::t_9a93be2bb14636 1-13
+starters/card-3-inbox-agent/README.md
+  s_d4038592fd1ebe::t_d7befb4ff7d0c7 1-139
+starters/card-3-inbox-agent/eslint.config.mjs
+  s_d4038592fd1ebe::t_3abe4e53efdccd 1-46
+starters/card-3-inbox-agent/index.html
+  s_d4038592fd1ebe::t_a3df73eee56dce 1-13
+starters/card-3-inbox-agent/package-lock.json
+  s_d4038592fd1ebe::t_3a900e21c89148 1-9815
+starters/card-3-inbox-agent/package.json
+  s_d4038592fd1ebe::t_608277137c776f 1-54
+starters/card-3-inbox-agent/packages/workshop-config/package.json
+  s_d4038592fd1ebe::t_b2a94bcb6f635a 1-20
+starters/card-3-inbox-agent/packages/workshop-config/src/index.ts
+  s_d4038592fd1ebe::t_b0c00382d7c49e 1-10
+starters/card-3-inbox-agent/packages/workshop-config/src/models.ts
+  s_d4038592fd1ebe::t_4866225db74e5b 1-64
+starters/card-3-inbox-agent/packages/workshop-config/test/models.test.ts
+  s_d4038592fd1ebe::t_4cc52b97e687b6 1-35
+starters/card-3-inbox-agent/packages/workshop-config/tsconfig.build.json
+  s_d4038592fd1ebe::t_51a8fff34be706 1-12
+starters/card-3-inbox-agent/packages/workshop-config/tsconfig.json
+  s_d4038592fd1ebe::t_de1bc274f93358 1-7
+starters/card-3-inbox-agent/packages/workshop-ui/package.json
+  s_d4038592fd1ebe::t_8d8cf594850eea 1-20
+starters/card-3-inbox-agent/packages/workshop-ui/src/icons.tsx
+  s_d4038592fd1ebe::t_42ee8a85c267ce 1-59
+starters/card-3-inbox-agent/packages/workshop-ui/src/index.ts
+  s_d4038592fd1ebe::t_d1ab23df5bbb16 1-12
+starters/card-3-inbox-agent/packages/workshop-ui/src/markdown.tsx
+  s_d4038592fd1ebe::t_99e1dc1c0f322f 1-19
+starters/card-3-inbox-agent/packages/workshop-ui/src/message-list.tsx
+  s_d4038592fd1ebe::t_83101e1b04d143 1-69
+starters/card-3-inbox-agent/packages/workshop-ui/src/model-selector.tsx
+  s_d4038592fd1ebe::t_dd954ca9bbce38 1-31
+starters/card-3-inbox-agent/packages/workshop-ui/src/status-banner.tsx
+  s_d4038592fd1ebe::t_348441fc62a37e 1-27
+starters/card-3-inbox-agent/packages/workshop-ui/src/styles.css
+  s_d4038592fd1ebe::t_5d71c3ce4b1ce7 1-668
+starters/card-3-inbox-agent/packages/workshop-ui/src/tool-call-card.tsx
+  s_d4038592fd1ebe::t_4488d028df9efa 1-51
+starters/card-3-inbox-agent/packages/workshop-ui/src/types.ts
+  s_d4038592fd1ebe::t_cf80369528d7ec 1-41
+starters/card-3-inbox-agent/packages/workshop-ui/src/workshop-shell.tsx
+  s_d4038592fd1ebe::t_5d14dcf352d298 1-117
+starters/card-3-inbox-agent/packages/workshop-ui/test/message-list.test.tsx
+  s_d4038592fd1ebe::t_3366107df1928e 1-43
+starters/card-3-inbox-agent/packages/workshop-ui/test/workshop-shell.test.tsx
+  s_d4038592fd1ebe::t_9c6ea70223beb1 1-54
+starters/card-3-inbox-agent/packages/workshop-ui/tsconfig.build.json
+  s_d4038592fd1ebe::t_89f097b397e045 1-12
+starters/card-3-inbox-agent/packages/workshop-ui/tsconfig.json
+  s_d4038592fd1ebe::t_300fb586c5764d 1-9
+starters/card-3-inbox-agent/prettier.config.mjs
+  s_d4038592fd1ebe::t_3c437ee9b32d10 1-6
+starters/card-3-inbox-agent/src/agent/agent.ts
+  s_d4038592fd1ebe::t_a48f4c5acdcbc6 1-315
+starters/card-3-inbox-agent/src/agent/context.ts
+  s_d4038592fd1ebe::t_019b823cc91441 1-40
+starters/card-3-inbox-agent/src/agent/model.ts
+  s_d4038592fd1ebe::t_2981422593103c 1-20
+starters/card-3-inbox-agent/src/agent/state.ts
+  s_d4038592fd1ebe::t_f0269b370e1327 1-287
+starters/card-3-inbox-agent/src/agent/workshop.ts
+  s_d4038592fd1ebe::t_d7da7aca725d81 1-69
+starters/card-3-inbox-agent/src/client.tsx
+  s_d4038592fd1ebe::t_2cf2d67ee1202e 1-16
+starters/card-3-inbox-agent/src/client/app.tsx
+  s_d4038592fd1ebe::t_df5929b198d966 1-115
+starters/card-3-inbox-agent/src/client/components/inbox-dashboard.tsx
+  s_d4038592fd1ebe::t_72568ffbd270da 1-452
+starters/card-3-inbox-agent/src/client/lib/messages.ts
+  s_d4038592fd1ebe::t_7171acea24fe8a 1-61
+starters/card-3-inbox-agent/src/client/styles.css
+  s_d4038592fd1ebe::t_6a1577a9f36e04 1-482
+starters/card-3-inbox-agent/src/server.ts
+  s_d4038592fd1ebe::t_5dbb333076e7fa 1-42
+starters/card-3-inbox-agent/src/services/contracts.ts
+  s_d4038592fd1ebe::t_dd8446386a9bcc 1-100
+starters/card-3-inbox-agent/src/services/mail-router.ts
+  s_d4038592fd1ebe::t_82e39e1c40bdca 1-132
+starters/card-3-inbox-agent/src/services/signature.ts
+  s_d4038592fd1ebe::t_2993c683123fd6 1-100
+starters/card-3-inbox-agent/src/shared/http.ts
+  s_d4038592fd1ebe::t_d4695ff5e172e5 1-19
+starters/card-3-inbox-agent/src/shared/logger.ts
+  s_d4038592fd1ebe::t_24ac448af74e14 1-22
+starters/card-3-inbox-agent/starter.json
+  s_d4038592fd1ebe::t_5dbe17b2c3ce15 1-16
+starters/card-3-inbox-agent/test/contracts.test.ts
+  s_d4038592fd1ebe::t_9261fbc2852b18 1-81
+starters/card-3-inbox-agent/test/inbox-dashboard.test.tsx
+  s_d4038592fd1ebe::t_17be6a37bc4777 1-150
+starters/card-3-inbox-agent/test/mail-router.test.ts
+  s_d4038592fd1ebe::t_eebc970d41f3a0 1-98
+starters/card-3-inbox-agent/test/messages-ui.test.tsx
+  s_d4038592fd1ebe::t_dd34263b3cddce 1-124
+starters/card-3-inbox-agent/test/signature.test.ts
+  s_d4038592fd1ebe::t_bb19bd49496bb1 1-106
+starters/card-3-inbox-agent/test/state.test.ts
+  s_d4038592fd1ebe::t_e54fbfa07b53f7 1-125
+starters/card-3-inbox-agent/test/workshop.test.ts
+  s_d4038592fd1ebe::t_703478bc59c042 1-62
+starters/card-3-inbox-agent/tsconfig.base.json
+  s_d4038592fd1ebe::t_d685ca0be2e69c 1-20
+starters/card-3-inbox-agent/tsconfig.json
+  s_d4038592fd1ebe::t_33fc1cfa286d2f 1-17
+starters/card-3-inbox-agent/vite.config.ts
+  s_d4038592fd1ebe::t_de791d4b9e435a 1-6
+starters/card-3-inbox-agent/vitest.config.ts
+  s_d4038592fd1ebe::t_2a17b645e56925 1-3
+starters/card-3-inbox-agent/worker-configuration.d.ts
+  s_d4038592fd1ebe::t_7c11c9db6cb6c1 1-15405
+starters/card-3-inbox-agent/wrangler.jsonc
+  s_d4038592fd1ebe::t_5669613ac092c8 1-31
+starters/card-4-cross-system/.gitignore
+  s_d4038592fd1ebe::t_b3c2d827eb4153 1-16
+starters/card-4-cross-system/.nvmrc
+  s_d4038592fd1ebe::t_5d6fc27c31dec1 1
+starters/card-4-cross-system/.prettierignore
+  s_d4038592fd1ebe::t_40cc42805b4faf 1-13
+starters/card-4-cross-system/README.md
+  s_d4038592fd1ebe::t_68111c9117c15a 1-159
+starters/card-4-cross-system/eslint.config.mjs
+  s_d4038592fd1ebe::t_30b47d0778e0ac 1-46
+starters/card-4-cross-system/index.html
+  s_d4038592fd1ebe::t_60423e222b8c12 1-13
+starters/card-4-cross-system/package-lock.json
+  s_d4038592fd1ebe::t_4998963b471cf6 1-9812
+starters/card-4-cross-system/package.json
+  s_d4038592fd1ebe::t_b9624a4ca368f1 1-55
+starters/card-4-cross-system/packages/workshop-config/package.json
+  s_d4038592fd1ebe::t_99cb3ddfbee7c1 1-20
+starters/card-4-cross-system/packages/workshop-config/src/index.ts
+  s_d4038592fd1ebe::t_035179b4a989d9 1-10
+starters/card-4-cross-system/packages/workshop-config/src/models.ts
+  s_d4038592fd1ebe::t_789b232fc9a6b7 1-64
+starters/card-4-cross-system/packages/workshop-config/test/models.test.ts
+  s_d4038592fd1ebe::t_0186d440f96308 1-35
+starters/card-4-cross-system/packages/workshop-config/tsconfig.build.json
+  s_d4038592fd1ebe::t_9453fcf500afa3 1-12
+starters/card-4-cross-system/packages/workshop-config/tsconfig.json
+  s_d4038592fd1ebe::t_a08b7b6827e213 1-7
+starters/card-4-cross-system/packages/workshop-ui/package.json
+  s_d4038592fd1ebe::t_61babe5c420618 1-20
+starters/card-4-cross-system/packages/workshop-ui/src/icons.tsx
+  s_d4038592fd1ebe::t_c1f63036a3a57e 1-59
+starters/card-4-cross-system/packages/workshop-ui/src/index.ts
+  s_d4038592fd1ebe::t_2ca12a254058f9 1-12
+starters/card-4-cross-system/packages/workshop-ui/src/markdown.tsx
+  s_d4038592fd1ebe::t_009ceface8166b 1-19
+starters/card-4-cross-system/packages/workshop-ui/src/message-list.tsx
+  s_d4038592fd1ebe::t_7f394ba5b5ac6c 1-69
+starters/card-4-cross-system/packages/workshop-ui/src/model-selector.tsx
+  s_d4038592fd1ebe::t_bd29a5a2ad304d 1-31
+starters/card-4-cross-system/packages/workshop-ui/src/status-banner.tsx
+  s_d4038592fd1ebe::t_ad558f36e99040 1-27
+starters/card-4-cross-system/packages/workshop-ui/src/styles.css
+  s_d4038592fd1ebe::t_0a5feef837925e 1-668
+starters/card-4-cross-system/packages/workshop-ui/src/tool-call-card.tsx
+  s_d4038592fd1ebe::t_b2a07c8f68b4a2 1-51
+starters/card-4-cross-system/packages/workshop-ui/src/types.ts
+  s_d4038592fd1ebe::t_a87611d975d83b 1-41
+starters/card-4-cross-system/packages/workshop-ui/src/workshop-shell.tsx
+  s_d4038592fd1ebe::t_0ceb4b3f604b03 1-117
+starters/card-4-cross-system/packages/workshop-ui/test/message-list.test.tsx
+  s_d4038592fd1ebe::t_5ca2f7b9f25f40 1-43
+starters/card-4-cross-system/packages/workshop-ui/test/workshop-shell.test.tsx
+  s_d4038592fd1ebe::t_85d8211f049745 1-54
+starters/card-4-cross-system/packages/workshop-ui/tsconfig.build.json
+  s_d4038592fd1ebe::t_f6eaabc4f637a5 1-12
+starters/card-4-cross-system/packages/workshop-ui/tsconfig.json
+  s_d4038592fd1ebe::t_1f24d72a949eb6 1-9
+starters/card-4-cross-system/prettier.config.mjs
+  s_d4038592fd1ebe::t_283167c6c3e49c 1-6
+starters/card-4-cross-system/scripts/remote-smoke.mjs
+  s_d4038592fd1ebe::t_d951bb41cedd62 1-23
+starters/card-4-cross-system/src/agent/agent.ts
+  s_d4038592fd1ebe::t_61eabd2f2134a8 1-217
+starters/card-4-cross-system/src/agent/context.ts
+  s_d4038592fd1ebe::t_30571dc989c16d 1-29
+starters/card-4-cross-system/src/agent/evidence.ts
+  s_d4038592fd1ebe::t_47eb7b181e1501 1-104
+starters/card-4-cross-system/src/agent/model.ts
+  s_d4038592fd1ebe::t_6c37bf864cfb01 1-20
+starters/card-4-cross-system/src/agent/state.ts
+  s_d4038592fd1ebe::t_2c46022a5a386c 1-216
+starters/card-4-cross-system/src/client.tsx
+  s_d4038592fd1ebe::t_77aa98763c0260 1-15
+starters/card-4-cross-system/src/client/app.tsx
+  s_d4038592fd1ebe::t_bcf8903d16a3a9 1-88
+starters/card-4-cross-system/src/client/components/cross-system-dashboard.tsx
+  s_d4038592fd1ebe::t_7bea3d71f090ec 1-415
+starters/card-4-cross-system/src/client/lib/messages.ts
+  s_d4038592fd1ebe::t_4ada661764f790 1-61
+starters/card-4-cross-system/src/client/styles.css
+  s_d4038592fd1ebe::t_da3090b2b5307e 1-471
+starters/card-4-cross-system/src/server.ts
+  s_d4038592fd1ebe::t_c0f7d8cbede9ec 1-23
+starters/card-4-cross-system/src/shared/http.ts
+  s_d4038592fd1ebe::t_9eaa41b9fccdaf 1-6
+starters/card-4-cross-system/src/shared/logger.ts
+  s_d4038592fd1ebe::t_ac511b326db48a 1-7
+starters/card-4-cross-system/starter.json
+  s_d4038592fd1ebe::t_035933be9ca1bb 1-25
+starters/card-4-cross-system/test/cross-system-dashboard.test.tsx
+  s_d4038592fd1ebe::t_84a0b581b02619 1-47
+starters/card-4-cross-system/test/evidence.test.ts
+  s_d4038592fd1ebe::t_ea9ba5099411a1 1-69
+starters/card-4-cross-system/test/messages-ui.test.tsx
+  s_d4038592fd1ebe::t_cc5084881d12a5 1-127
+starters/card-4-cross-system/test/state.test.ts
+  s_d4038592fd1ebe::t_02cea01078552d 1-66
+starters/card-4-cross-system/tsconfig.base.json
+  s_d4038592fd1ebe::t_22b9535d71d373 1-20
+starters/card-4-cross-system/tsconfig.json
+  s_d4038592fd1ebe::t_3c68f9b7109e71 1-17
+starters/card-4-cross-system/vite.config.ts
+  s_d4038592fd1ebe::t_94dcc142e32033 1-6
+starters/card-4-cross-system/vitest.config.ts
+  s_d4038592fd1ebe::t_7c4c5fd1944c95 1-3
+starters/card-4-cross-system/worker-configuration.d.ts
+  s_d4038592fd1ebe::t_ed2eae89b363f0 1-15402
+starters/card-4-cross-system/wrangler.jsonc
+  s_d4038592fd1ebe::t_ad85adadf277b6 1-28
+starters/card-5-watcher/.gitignore
+  s_d4038592fd1ebe::t_aaccc7766daf15 1-16
+starters/card-5-watcher/.nvmrc
+  s_d4038592fd1ebe::t_168af32ad298c3 1
+starters/card-5-watcher/.prettierignore
+  s_d4038592fd1ebe::t_770d69e9700d1b 1-13
+starters/card-5-watcher/README.md
+  s_d4038592fd1ebe::t_cdf0588d715e05 1-163
+starters/card-5-watcher/eslint.config.mjs
+  s_d4038592fd1ebe::t_a56021c33c6850 1-46
+starters/card-5-watcher/index.html
+  s_d4038592fd1ebe::t_7f053cf19a53e6 1-13
+starters/card-5-watcher/package-lock.json
+  s_d4038592fd1ebe::t_7d732c9c8c75fd 1-9815
+starters/card-5-watcher/package.json
+  s_d4038592fd1ebe::t_3f97185755726d 1-59
+starters/card-5-watcher/packages/workshop-config/package.json
+  s_d4038592fd1ebe::t_c380804e2b573f 1-20
+starters/card-5-watcher/packages/workshop-config/src/index.ts
+  s_d4038592fd1ebe::t_2cc7a401f9383a 1-10
+starters/card-5-watcher/packages/workshop-config/src/models.ts
+  s_d4038592fd1ebe::t_6643a2731e5868 1-64
+starters/card-5-watcher/packages/workshop-config/test/models.test.ts
+  s_d4038592fd1ebe::t_e43341c899eb40 1-35
+starters/card-5-watcher/packages/workshop-config/tsconfig.build.json
+  s_d4038592fd1ebe::t_5c09a6798a6e40 1-12
+starters/card-5-watcher/packages/workshop-config/tsconfig.json
+  s_d4038592fd1ebe::t_640cbf7961829b 1-7
+starters/card-5-watcher/packages/workshop-ui/package.json
+  s_d4038592fd1ebe::t_f2615d11474ae2 1-20
+starters/card-5-watcher/packages/workshop-ui/src/icons.tsx
+  s_d4038592fd1ebe::t_46da88d8ed9429 1-59
+starters/card-5-watcher/packages/workshop-ui/src/index.ts
+  s_d4038592fd1ebe::t_226c6847b7078f 1-12
+starters/card-5-watcher/packages/workshop-ui/src/markdown.tsx
+  s_d4038592fd1ebe::t_93bdf404987f7e 1-19
+starters/card-5-watcher/packages/workshop-ui/src/message-list.tsx
+  s_d4038592fd1ebe::t_7292cf56d0439d 1-69
+starters/card-5-watcher/packages/workshop-ui/src/model-selector.tsx
+  s_d4038592fd1ebe::t_da0bb750f7fed3 1-31
+starters/card-5-watcher/packages/workshop-ui/src/status-banner.tsx
+  s_d4038592fd1ebe::t_460256f5dcc838 1-27
+starters/card-5-watcher/packages/workshop-ui/src/styles.css
+  s_d4038592fd1ebe::t_abc1d9bbe09744 1-668
+starters/card-5-watcher/packages/workshop-ui/src/tool-call-card.tsx
+  s_d4038592fd1ebe::t_4d568c825cb6ec 1-51
+starters/card-5-watcher/packages/workshop-ui/src/types.ts
+  s_d4038592fd1ebe::t_76fa4fc4946581 1-41
+starters/card-5-watcher/packages/workshop-ui/src/workshop-shell.tsx
+  s_d4038592fd1ebe::t_f7dc2a44891b24 1-117
+starters/card-5-watcher/packages/workshop-ui/test/message-list.test.tsx
+  s_d4038592fd1ebe::t_9e363141c0c29a 1-43
+starters/card-5-watcher/packages/workshop-ui/test/workshop-shell.test.tsx
+  s_d4038592fd1ebe::t_c87cd57f4e423e 1-54
+starters/card-5-watcher/packages/workshop-ui/tsconfig.build.json
+  s_d4038592fd1ebe::t_e42eb9ff60f526 1-12
+starters/card-5-watcher/packages/workshop-ui/tsconfig.json
+  s_d4038592fd1ebe::t_2081b6fabc87ff 1-9
+starters/card-5-watcher/prettier.config.mjs
+  s_d4038592fd1ebe::t_bfff8f8da25380 1-6
+starters/card-5-watcher/src/agent/agent.ts
+  s_d4038592fd1ebe::t_a9d73d8fefbaee 1-138
+starters/card-5-watcher/src/agent/model.ts
+  s_d4038592fd1ebe::t_2d040170f391d0 1-14
+starters/card-5-watcher/src/agent/state.ts
+  s_d4038592fd1ebe::t_d58a8263a60ba7 1-146
+starters/card-5-watcher/src/client.tsx
+  s_d4038592fd1ebe::t_12a718ddee72ba 1-15
+starters/card-5-watcher/src/client/app.tsx
+  s_d4038592fd1ebe::t_a26923ff5d6077 1-62
+starters/card-5-watcher/src/client/components/watcher-dashboard.tsx
+  s_d4038592fd1ebe::t_80ead073b0d518 1-217
+starters/card-5-watcher/src/client/lib/messages.ts
+  s_d4038592fd1ebe::t_4948dfed9217e1 1-61
+starters/card-5-watcher/src/client/styles.css
+  s_d4038592fd1ebe::t_19e87a9397ea6e 1-335
+starters/card-5-watcher/src/server.ts
+  s_d4038592fd1ebe::t_7f78829aa67507 1-22
+starters/card-5-watcher/src/services/browser.ts
+  s_d4038592fd1ebe::t_fe8161df5b5253 1-50
+starters/card-5-watcher/src/services/materiality.ts
+  s_d4038592fd1ebe::t_4928194ef8ca6e 1-39
+starters/card-5-watcher/src/shared/http.ts
+  s_d4038592fd1ebe::t_202dc3e2202eff 1-6
+starters/card-5-watcher/src/shared/logger.ts
+  s_d4038592fd1ebe::t_74a6f56448f36f 1-3
+starters/card-5-watcher/starter.json
+  s_d4038592fd1ebe::t_d103f6d9b3dcde 1-29
+starters/card-5-watcher/test/starter.test.ts
+  s_d4038592fd1ebe::t_6723567b37bef3 1-55
+starters/card-5-watcher/tsconfig.base.json
+  s_d4038592fd1ebe::t_385c71eab349df 1-20
+starters/card-5-watcher/tsconfig.json
+  s_d4038592fd1ebe::t_846d39c7382fdc 1-17
+starters/card-5-watcher/vite.config.ts
+  s_d4038592fd1ebe::t_bb963a949481eb 1-6
+starters/card-5-watcher/vitest.config.ts
+  s_d4038592fd1ebe::t_e0ece932e35a65 1-3
+starters/card-5-watcher/worker-configuration.d.ts
+  s_d4038592fd1ebe::t_1647791f47015b 1-15404
+starters/card-5-watcher/wrangler.jsonc
+  s_d4038592fd1ebe::t_31e963a32b91ab 1-30
+starters/peer-point-montreal/README.md
+  s_d4038592fd1ebe::t_9e202e1f2e7dfd 1-56
+starters/peer-point-montreal/cards.json
+  s_d4038592fd1ebe::t_6314fcc43d7db1 1-32
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.6.10",
+  "base_commit_sha": "78566332ba6739e842b03521b5986549a1ead5e3",
+  "prompts": {},
+  "sessions": {
+    "s_d2608fccc9884f": {
+      "agent_id": {
+        "tool": "windsurf",
+        "id": "navy-scion",
+        "model": "unknown"
+      },
+      "human_author": "Nikhil <vnikhilbuddhavarapu@outlook.com>"
+    },
+    "s_d4038592fd1ebe": {
+      "agent_id": {
+        "tool": "devin",
+        "id": "s_d4038592fd1ebe",
+        "model": "unknown"
+      },
+      "human_author": "Nikhil <vnikhilbuddhavarapu@outlook.com>"
+    }
+  }
+}
