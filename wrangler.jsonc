@@ -31,7 +31,7 @@
     "LOG_API_URL": "https://peer-point-log-api.peer-point-user-group.workers.dev",
     "CITY": "Montreal",
     "CARD": "threat-hunter",
-    "ENVIRONMENT": "solution",
+    "ENVIRONMENT": "starter",
   },
   "observability": {
     "logs": {
