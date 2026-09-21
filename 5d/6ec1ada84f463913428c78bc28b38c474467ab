@@ -1,0 +1,113 @@
+infra/mail-router/worker-configuration.d.ts
+  s_d2608fccc9884f::t_2ca8d39ac1304c 3
+package-lock.json
+  s_d2608fccc9884f::t_766c68d48a28fd 20,2448-2451,9543-9570
+package.json
+  s_8a7a52c9237b54::t_a0159af7eabe79 17,36-37
+solutions/card-3-inbox-agent/README.md
+  s_8a7a52c9237b54::t_b3e727a9e47fd4 1-14
+solutions/card-3-inbox-agent/index.html
+  s_8a7a52c9237b54::t_6a511bdf8d50e4 1-13
+solutions/card-3-inbox-agent/package.json
+  s_8a7a52c9237b54::t_4ec44891945ec6 1-42
+solutions/card-3-inbox-agent/scripts/router-smoke.mjs
+  s_8a7a52c9237b54::t_2981252397ceb6 1-94
+solutions/card-3-inbox-agent/scripts/smoke.mjs
+  s_8a7a52c9237b54::t_31d08cf9ba4004 1-126
+solutions/card-3-inbox-agent/src/agent/agent.ts
+  s_8a7a52c9237b54::t_0ef536c497a12c 1-310
+solutions/card-3-inbox-agent/src/agent/context.ts
+  s_8a7a52c9237b54::t_76fe6bec5caa7c 1-23
+solutions/card-3-inbox-agent/src/agent/model.ts
+  s_8a7a52c9237b54::t_e59db437cea37f 1-20
+solutions/card-3-inbox-agent/src/agent/state.ts
+  s_8a7a52c9237b54::t_a9e4e61122be92 1-287
+solutions/card-3-inbox-agent/src/client.tsx
+  s_8a7a52c9237b54::t_9d9a4d667e633e 1-16
+solutions/card-3-inbox-agent/src/client/app.tsx
+  s_d2608fccc9884f::t_ddb9e4152dcc4b 1-115
+solutions/card-3-inbox-agent/src/client/components/inbox-dashboard.tsx
+  s_d2608fccc9884f::t_22b314eb384ace 1-452
+solutions/card-3-inbox-agent/src/client/lib/messages.ts
+  s_8a7a52c9237b54::t_31b1e2639aa0c3 1-61
+solutions/card-3-inbox-agent/src/client/styles.css
+  s_d2608fccc9884f::t_4eec2736eb13b5 1-482
+solutions/card-3-inbox-agent/src/server.ts
+  s_8a7a52c9237b54::t_1ffe1118652c46 1-42
+solutions/card-3-inbox-agent/src/services/contracts.ts
+  s_8a7a52c9237b54::t_3e837c1f33cc20 1-100
+solutions/card-3-inbox-agent/src/services/mail-router.ts
+  s_8a7a52c9237b54::t_65fc0c3f793ba3 1-132
+solutions/card-3-inbox-agent/src/services/signature.ts
+  s_8a7a52c9237b54::t_304c65f6abdda2 1-100
+solutions/card-3-inbox-agent/src/shared/http.ts
+  s_8a7a52c9237b54::t_201fa1dec69867 1-19
+solutions/card-3-inbox-agent/src/shared/logger.ts
+  s_8a7a52c9237b54::t_cebc4809e219ac 1-22
+solutions/card-3-inbox-agent/test/contracts.test.ts
+  s_8a7a52c9237b54::t_8ec92248014951 1-81
+solutions/card-3-inbox-agent/test/inbox-dashboard.test.tsx
+  s_8a7a52c9237b54::t_890fc3cb24a256 1-150
+solutions/card-3-inbox-agent/test/mail-router.test.ts
+  s_8a7a52c9237b54::t_8af6f59a2a5b1d 1-98
+solutions/card-3-inbox-agent/test/messages-ui.test.tsx
+  s_8a7a52c9237b54::t_c0f771c6f7deaf 1-124
+solutions/card-3-inbox-agent/test/signature.test.ts
+  s_8a7a52c9237b54::t_4130201e3be017 1-106
+solutions/card-3-inbox-agent/test/state.test.ts
+  s_8a7a52c9237b54::t_43b53fc04f6ffa 1-125
+solutions/card-3-inbox-agent/tsconfig.json
+  s_8a7a52c9237b54::t_672d274c98379b 1-17
+solutions/card-3-inbox-agent/vite.config.ts
+  s_8a7a52c9237b54::t_4d62bd4a080d49 1-6
+solutions/card-3-inbox-agent/vitest.config.ts
+  s_8a7a52c9237b54::t_e849bb5fecf7e4 1-3
+solutions/card-3-inbox-agent/worker-configuration.d.ts
+  s_d2608fccc9884f::t_3900402cfded99 1-15405
+solutions/card-3-inbox-agent/wrangler.jsonc
+  s_8a7a52c9237b54::t_c8f81e57137e37 1-49
+.prettierignore
+  s_42cb9824aca87b::t_6c2404f59f14d3 6
+README.md
+  s_42cb9824aca87b::t_28a3b4f846f8dd 11,13-17,44
+docs/brief.md
+  s_42cb9824aca87b::t_6f406f9da82e33 771
+docs/phase-4c.md
+  s_42cb9824aca87b::t_abc65f214851d6 1-48
+infra/mail-router/src/server.ts
+  s_42cb9824aca87b::t_f2ef601d2c2f7c 98
+infra/mail-router/wrangler.jsonc
+  s_42cb9824aca87b::t_20653e60055967 6
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.6.10",
+  "base_commit_sha": "5d6ec1ada84f463913428c78bc28b38c474467ab",
+  "prompts": {},
+  "sessions": {
+    "s_42cb9824aca87b": {
+      "agent_id": {
+        "tool": "devin",
+        "id": "s_42cb9824aca87b",
+        "model": "unknown"
+      },
+      "human_author": "Nikhil <vnikhilbuddhavarapu@outlook.com>"
+    },
+    "s_8a7a52c9237b54": {
+      "agent_id": {
+        "tool": "windsurf",
+        "id": "vine-swordtail",
+        "model": "unknown"
+      },
+      "human_author": "Nikhil <vnikhilbuddhavarapu@outlook.com>"
+    },
+    "s_d2608fccc9884f": {
+      "agent_id": {
+        "tool": "windsurf",
+        "id": "navy-scion",
+        "model": "unknown"
+      },
+      "human_author": "Nikhil <vnikhilbuddhavarapu@outlook.com>"
+    }
+  }
+}
