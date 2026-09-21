@@ -1,0 +1,123 @@
+README.md
+  s_8a7a52c9237b54::t_f600e12164cb5b 11,13-17,43
+docs/dependency-baseline.md
+  s_8a7a52c9237b54::t_6559c2f816191f 11
+package-lock.json
+  s_d2608fccc9884f::t_3d1e968803e810 19,771-776,786-819,2443-2446,3643-3648,9509-9537
+solutions/card-2-code-review/fixtures/sample-repo/src/server.js
+  s_d2608fccc9884f::t_cc8ce262674007 1-11
+solutions/card-2-code-review/scripts/remote-smoke.mjs
+  s_d2608fccc9884f::t_d3679ccdf5eb10 1-154
+solutions/card-2-code-review/scripts/smoke.mjs
+  s_d2608fccc9884f::t_a966b215ece60a 1-39
+solutions/card-2-code-review/src/client/components/review-dashboard.tsx
+  s_8a7a52c9237b54::t_5da56050602001 1-510
+solutions/card-2-code-review/src/client/lib/messages.ts
+  s_d2608fccc9884f::t_2525d03da13193 1-61
+solutions/card-2-code-review/src/client/styles.css
+  s_8a7a52c9237b54::t_b59d34ddf97536 1-693
+solutions/card-2-code-review/src/shared/smoke.ts
+  s_d2608fccc9884f::t_ee693f984bfef9 1-13
+solutions/card-2-code-review/test/review-dashboard.test.tsx
+  s_d2608fccc9884f::t_5615467b9a1586 1-137
+solutions/card-2-code-review/worker-configuration.d.ts
+  s_d2608fccc9884f::t_42672ce8b22c32 1-15403
+solutions/card-2-code-review/wrangler.jsonc
+  s_8a7a52c9237b54::t_1b82cf81ed894f 1-59
+AGENTS.md
+  s_e53acb02ef4478::t_5b70ec1adb5d6e 3-7
+docs/brief.md
+  s_e53acb02ef4478::t_dacc822d87b4ec 738
+docs/phase-4b.md
+  s_e53acb02ef4478::t_1182d600439339 1-56
+package.json
+  s_e53acb02ef4478::t_12b3987e479915 16,33-34
+solutions/card-2-code-review/Dockerfile
+  s_e53acb02ef4478::t_904648c45ab9a4 1-10
+solutions/card-2-code-review/README.md
+  s_e53acb02ef4478::t_56a31ab62102ec 1-33
+solutions/card-2-code-review/fixtures/sample-repo/README.md
+  s_e53acb02ef4478::t_1b42faefa200dc 1-3
+solutions/card-2-code-review/fixtures/sample-repo/package.json
+  s_e53acb02ef4478::t_71dd7a3b771ddc 1-10
+solutions/card-2-code-review/fixtures/sample-repo/src/order.js
+  s_e53acb02ef4478::t_a15343864cf099 1-8
+solutions/card-2-code-review/fixtures/sample-repo/test/order.test.js
+  s_e53acb02ef4478::t_cb4ce4d01a9a24 1-16
+solutions/card-2-code-review/index.html
+  s_e53acb02ef4478::t_eef78fbcd77414 1-13
+solutions/card-2-code-review/package.json
+  s_e53acb02ef4478::t_4cd99215c55ec6 1-43
+solutions/card-2-code-review/scripts/preview-smoke.mjs
+  s_e53acb02ef4478::t_e7887a063744c2 1-39
+solutions/card-2-code-review/src/agent/agent.ts
+  s_e53acb02ef4478::t_0965ef66229723 1-242
+solutions/card-2-code-review/src/agent/context.ts
+  s_e53acb02ef4478::t_95ce1599d18d30 1-24
+solutions/card-2-code-review/src/agent/model.ts
+  s_e53acb02ef4478::t_c1d6ff97383308 1-20
+solutions/card-2-code-review/src/agent/state.ts
+  s_e53acb02ef4478::t_5804208a563ee5 1-220
+solutions/card-2-code-review/src/agent/tools/index.ts
+  s_e53acb02ef4478::t_1793c57705bf4c 1-164
+solutions/card-2-code-review/src/client.tsx
+  s_e53acb02ef4478::t_14d7a9365f1e2d 1-16
+solutions/card-2-code-review/src/client/app.tsx
+  s_e53acb02ef4478::t_660aa66a452ff6 1-90
+solutions/card-2-code-review/src/server.ts
+  s_e53acb02ef4478::t_b1cbf673e5d84c 1-56
+solutions/card-2-code-review/src/services/sandbox.ts
+  s_e53acb02ef4478::t_e871f93cbe30c0 1-445
+solutions/card-2-code-review/src/shared/http.ts
+  s_e53acb02ef4478::t_66a27a71975c9e 1-16
+solutions/card-2-code-review/src/shared/logger.ts
+  s_e53acb02ef4478::t_c54a54ea22ec56 1-22
+solutions/card-2-code-review/src/shared/review-contracts.ts
+  s_e53acb02ef4478::t_8e10f70b131ac0 1-16
+solutions/card-2-code-review/test/messages-ui.test.tsx
+  s_e53acb02ef4478::t_2d573cb7567f87 1-95
+solutions/card-2-code-review/test/sandbox.test.ts
+  s_e53acb02ef4478::t_e223f4d6c2dfc7 1-197
+solutions/card-2-code-review/test/state.test.ts
+  s_e53acb02ef4478::t_9d8f3631f725c2 1-133
+solutions/card-2-code-review/test/tools.test.ts
+  s_e53acb02ef4478::t_f7c0a9be701b6b 1-216
+solutions/card-2-code-review/tsconfig.json
+  s_e53acb02ef4478::t_a195214e7a3f85 1-17
+solutions/card-2-code-review/vite.config.ts
+  s_e53acb02ef4478::t_ab455e42ecff57 1-8
+solutions/card-2-code-review/vitest.config.ts
+  s_e53acb02ef4478::t_a90381919ead6a 1-7
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.6.10",
+  "base_commit_sha": "952e20138864dffa3a78e1fda26a3a2b937bb89b",
+  "prompts": {},
+  "sessions": {
+    "s_8a7a52c9237b54": {
+      "agent_id": {
+        "tool": "windsurf",
+        "id": "vine-swordtail",
+        "model": "unknown"
+      },
+      "human_author": "Nikhil <vnikhilbuddhavarapu@outlook.com>"
+    },
+    "s_d2608fccc9884f": {
+      "agent_id": {
+        "tool": "windsurf",
+        "id": "navy-scion",
+        "model": "unknown"
+      },
+      "human_author": "Nikhil <vnikhilbuddhavarapu@outlook.com>"
+    },
+    "s_e53acb02ef4478": {
+      "agent_id": {
+        "tool": "devin",
+        "id": "s_e53acb02ef4478",
+        "model": "unknown"
+      },
+      "human_author": "Nikhil <vnikhilbuddhavarapu@outlook.com>"
+    }
+  }
+}
