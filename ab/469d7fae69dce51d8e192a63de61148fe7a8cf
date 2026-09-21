@@ -1,0 +1,21 @@
+scripts/derive-starters.mjs
+  s_e764f44676cbae::t_4ef6c95facd58f 232-237
+starters/peer-point-montreal/README.md
+  s_e764f44676cbae::t_75cff514fece69 15-16,18-21
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.6.10",
+  "base_commit_sha": "ab469d7fae69dce51d8e192a63de61148fe7a8cf",
+  "prompts": {},
+  "sessions": {
+    "s_e764f44676cbae": {
+      "agent_id": {
+        "tool": "devin",
+        "id": "s_e764f44676cbae",
+        "model": "unknown"
+      },
+      "human_author": "Nikhil <vnikhilbuddhavarapu@outlook.com>"
+    }
+  }
+}
