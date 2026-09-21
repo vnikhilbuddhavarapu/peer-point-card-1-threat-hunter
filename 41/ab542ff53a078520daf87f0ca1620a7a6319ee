@@ -1,0 +1,95 @@
+package-lock.json
+  s_d2608fccc9884f::t_18b2315d7c72b9 18,2430-2433,9443-9470
+solutions/card-1-threat-hunter/src/client/components/threat-dashboard.tsx
+  s_d2608fccc9884f::t_2f96ab88f885b6 1-413
+solutions/card-1-threat-hunter/src/shared/smoke.ts
+  s_d2608fccc9884f::t_3d13831212c812 1-15
+solutions/card-1-threat-hunter/worker-configuration.d.ts
+  s_d2608fccc9884f::t_b4cbedf7343e50 1-15401
+README.md
+  s_566adf96808505::t_bf478f4fd2172f 11,13-17,42
+docs/phase-4a.md
+  s_566adf96808505::t_826a3081a62b71 1-45
+package.json
+  s_566adf96808505::t_4dcd84eaeb92c6 15,32-33
+solutions/card-1-threat-hunter/README.md
+  s_566adf96808505::t_372c637191c2fd 1-34
+solutions/card-1-threat-hunter/index.html
+  s_566adf96808505::t_80b98bce4d3e68 1-13
+solutions/card-1-threat-hunter/package.json
+  s_566adf96808505::t_13f84668b4a043 1-42
+solutions/card-1-threat-hunter/scripts/remote-smoke.mjs
+  s_566adf96808505::t_70363a10118a39 1-155
+solutions/card-1-threat-hunter/scripts/smoke.mjs
+  s_566adf96808505::t_400e7fa9aadb1d 1-41
+solutions/card-1-threat-hunter/src/agent/agent.ts
+  s_566adf96808505::t_70dc49ed97d446 1-191
+solutions/card-1-threat-hunter/src/agent/context.ts
+  s_566adf96808505::t_300b22e4523330 1-25
+solutions/card-1-threat-hunter/src/agent/model.ts
+  s_566adf96808505::t_965fc3ceafa3ff 1-20
+solutions/card-1-threat-hunter/src/agent/state.ts
+  s_566adf96808505::t_fd587aff04da90 1-165
+solutions/card-1-threat-hunter/src/agent/tools/index.ts
+  s_566adf96808505::t_07d22ef99bf1da 1-140
+solutions/card-1-threat-hunter/src/client.tsx
+  s_566adf96808505::t_90267938967be7 1-16
+solutions/card-1-threat-hunter/src/client/app.tsx
+  s_566adf96808505::t_9268a1e5e3779d 1-100
+solutions/card-1-threat-hunter/src/client/lib/messages.ts
+  s_566adf96808505::t_0fb66600124ff2 1-61
+solutions/card-1-threat-hunter/src/client/styles.css
+  s_566adf96808505::t_86dd274cf9cc61 1-505
+solutions/card-1-threat-hunter/src/server.ts
+  s_566adf96808505::t_2987f95e5d7264 1-51
+solutions/card-1-threat-hunter/src/services/fallback.ts
+  s_566adf96808505::t_2956e88486815f 1-107
+solutions/card-1-threat-hunter/src/services/log-api.ts
+  s_566adf96808505::t_fb629d69edae81 1-357
+solutions/card-1-threat-hunter/src/shared/http.ts
+  s_566adf96808505::t_2474009a35694e 1-16
+solutions/card-1-threat-hunter/src/shared/logger.ts
+  s_566adf96808505::t_825ffd0ed44f07 1-22
+solutions/card-1-threat-hunter/test/log-api.test.ts
+  s_566adf96808505::t_338ac48bb375d9 1-138
+solutions/card-1-threat-hunter/test/messages-ui.test.tsx
+  s_566adf96808505::t_6e2c9d448260eb 1-85
+solutions/card-1-threat-hunter/test/state.test.ts
+  s_566adf96808505::t_3e35d99de91d8e 1-127
+solutions/card-1-threat-hunter/test/threat-dashboard.test.tsx
+  s_566adf96808505::t_c2e43060d56531 1-107
+solutions/card-1-threat-hunter/test/tools.test.ts
+  s_566adf96808505::t_e02e46d1f8ea4a 1-171
+solutions/card-1-threat-hunter/tsconfig.json
+  s_566adf96808505::t_045f8cad1512fb 1-17
+solutions/card-1-threat-hunter/vite.config.ts
+  s_566adf96808505::t_e121f4009e3415 1-8
+solutions/card-1-threat-hunter/vitest.config.ts
+  s_566adf96808505::t_287d266643924c 1-7
+solutions/card-1-threat-hunter/wrangler.jsonc
+  s_566adf96808505::t_89136af2f47586 1-46
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.6.10",
+  "base_commit_sha": "41ab542ff53a078520daf87f0ca1620a7a6319ee",
+  "prompts": {},
+  "sessions": {
+    "s_566adf96808505": {
+      "agent_id": {
+        "tool": "devin",
+        "id": "s_566adf96808505",
+        "model": "unknown"
+      },
+      "human_author": "Nikhil <vnikhilbuddhavarapu@outlook.com>"
+    },
+    "s_d2608fccc9884f": {
+      "agent_id": {
+        "tool": "windsurf",
+        "id": "navy-scion",
+        "model": "unknown"
+      },
+      "human_author": "Nikhil <vnikhilbuddhavarapu@outlook.com>"
+    }
+  }
+}
