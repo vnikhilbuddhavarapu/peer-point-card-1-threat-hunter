@@ -1,0 +1,41 @@
+starters/card-1-threat-hunter/wrangler.jsonc
+  s_d2608fccc9884f::t_5465d136f0ff81 34
+docs/phase-6.md
+  s_c79a32a15b4f46::t_bc5ba3773fbfdc 1-40
+scripts/derive-starters.mjs
+  s_c79a32a15b4f46::t_89d14e57a272b2 201-208
+starters/card-1-threat-hunter/worker-configuration.d.ts
+  s_c79a32a15b4f46::t_54dab191d4cb28 2,10
+starters/card-2-code-review/worker-configuration.d.ts
+  s_c79a32a15b4f46::t_9ae07bf41ee43e 2,9
+starters/card-2-code-review/wrangler.jsonc
+  s_c79a32a15b4f46::t_75c0fd5a9ebfbe 45
+starters/card-5-watcher/worker-configuration.d.ts
+  s_c79a32a15b4f46::t_64e6096aabe671 2,13
+starters/card-5-watcher/wrangler.jsonc
+  s_c79a32a15b4f46::t_18aab47f9ee9c4 24
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.6.10",
+  "base_commit_sha": "e688af5427f8e9b11f98e953f37e9d4e7419f156",
+  "prompts": {},
+  "sessions": {
+    "s_c79a32a15b4f46": {
+      "agent_id": {
+        "tool": "devin",
+        "id": "s_c79a32a15b4f46",
+        "model": "unknown"
+      },
+      "human_author": "Nikhil <vnikhilbuddhavarapu@outlook.com>"
+    },
+    "s_d2608fccc9884f": {
+      "agent_id": {
+        "tool": "windsurf",
+        "id": "navy-scion",
+        "model": "unknown"
+      },
+      "human_author": "Nikhil <vnikhilbuddhavarapu@outlook.com>"
+    }
+  }
+}
