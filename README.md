@@ -1,6 +1,6 @@
 # Threat Hunter
 
-[![Deploy to Cloudflare](https://deploy.workers.cloudflare.com/button)]([CARD_1_DEPLOY_URL])
+[![Deploy to Cloudflare](https://deploy.workers.cloudflare.com/button)](https://deploy.workers.cloudflare.com/?url=https://github.com/vnikhilbuddhavarapu/peer-point-card-1-threat-hunter)
 
 Build an evidence-first Agent that investigates a large synthetic HTTP log corpus without placing the corpus in model context. The lesson is to turn a broad incident question into bounded queries, pivot on returned evidence, and persist only grounded conclusions.
 
