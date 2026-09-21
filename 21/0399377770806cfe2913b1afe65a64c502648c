@@ -1,0 +1,25 @@
+scripts/derive-starters.mjs
+  s_5776c5e2270d2d::t_fd4f103c2d7cda 29-36
+starters/card-2-code-review/package-lock.json
+  s_5776c5e2270d2d::t_02bd1d57eccf2a 30,3086-3115
+starters/card-2-code-review/package.json
+  s_5776c5e2270d2d::t_3f5bbeec5da46b 43
+starters/peer-point-montreal/README.md
+  s_5776c5e2270d2d::t_d10516bc5b5244 15-16,18-21
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.6.10",
+  "base_commit_sha": "210399377770806cfe2913b1afe65a64c502648c",
+  "prompts": {},
+  "sessions": {
+    "s_5776c5e2270d2d": {
+      "agent_id": {
+        "tool": "devin",
+        "id": "s_5776c5e2270d2d",
+        "model": "unknown"
+      },
+      "human_author": "Nikhil <vnikhilbuddhavarapu@outlook.com>"
+    }
+  }
+}
