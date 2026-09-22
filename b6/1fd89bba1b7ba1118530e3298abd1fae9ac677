@@ -1,0 +1,19 @@
+docs/phase-6.md
+  s_e181eeab5fe24e::t_aeb6545701bc26 90
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.6.10",
+  "base_commit_sha": "b61fd89bba1b7ba1118530e3298abd1fae9ac677",
+  "prompts": {},
+  "sessions": {
+    "s_e181eeab5fe24e": {
+      "agent_id": {
+        "tool": "devin",
+        "id": "s_e181eeab5fe24e",
+        "model": "unknown"
+      },
+      "human_author": "Nikhil <vnikhilbuddhavarapu@outlook.com>"
+    }
+  }
+}
