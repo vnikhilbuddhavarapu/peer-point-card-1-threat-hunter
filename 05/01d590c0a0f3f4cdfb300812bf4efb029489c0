@@ -1,0 +1,39 @@
+docs/phase-6.md
+  s_9c61ae838bf1be::t_88f96b5ae18ee9 51,53-76
+os/AGENT_SYSTEM_PROMPT.md
+  s_9c61ae838bf1be::t_8c5d07338444e0 1-120
+os/APPROVAL_RECOVERY.md
+  s_9c61ae838bf1be::t_9e2a09f0533a4b 1-69
+os/README.md
+  s_9c61ae838bf1be::t_9572e2526dca4d 1-75
+os/skills/code-review-agent/SKILL.md
+  s_9c61ae838bf1be::t_89a189fee00a0f 1-51
+os/skills/cross-system-agent/SKILL.md
+  s_9c61ae838bf1be::t_8d2ebb4b25c0e8 1-48
+os/skills/inbox-agent/SKILL.md
+  s_9c61ae838bf1be::t_7a4267d9cd1bac 1-52
+os/skills/threat-hunter/SKILL.md
+  s_9c61ae838bf1be::t_1aaaebb0aee787 1-54
+os/skills/watcher-agent/SKILL.md
+  s_9c61ae838bf1be::t_f5a0c4437f7a89 1-54
+package.json
+  s_9c61ae838bf1be::t_c5ea77537287d0 37
+scripts/verify-os-guidance.mjs
+  s_9c61ae838bf1be::t_d85d8478c7ecbf 1-62
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.6.10",
+  "base_commit_sha": "0501d590c0a0f3f4cdfb300812bf4efb029489c0",
+  "prompts": {},
+  "sessions": {
+    "s_9c61ae838bf1be": {
+      "agent_id": {
+        "tool": "devin",
+        "id": "s_9c61ae838bf1be",
+        "model": "unknown"
+      },
+      "human_author": "Nikhil <vnikhilbuddhavarapu@outlook.com>"
+    }
+  }
+}
