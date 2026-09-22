@@ -1,0 +1,19 @@
+os/README.md
+  s_6887328f3fec09::t_593788cc99d67c 32
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.6.10",
+  "base_commit_sha": "e9e376b3c51fd1afe95975b30d73ef8508ea0f58",
+  "prompts": {},
+  "sessions": {
+    "s_6887328f3fec09": {
+      "agent_id": {
+        "tool": "devin",
+        "id": "s_6887328f3fec09",
+        "model": "unknown"
+      },
+      "human_author": "Nikhil <vnikhilbuddhavarapu@outlook.com>"
+    }
+  }
+}
