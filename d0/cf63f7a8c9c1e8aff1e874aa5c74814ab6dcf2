@@ -1,0 +1,63 @@
+starters/card-1-threat-hunter/.github/workflows/verify.yml
+  s_d2608fccc9884f::t_e0214bce91b809 1-18
+starters/card-1-threat-hunter/README.md
+  s_d2608fccc9884f::t_97c4bee68fb0f2 130,133,136-137
+docs/phase-6.md
+  s_4dcdc8e670f4b0::t_9de906ca59f62e 78-84,88-90
+os/AGENT_SYSTEM_PROMPT.md
+  s_4dcdc8e670f4b0::t_2ac65248a9aa7a 24,78-79,84-88,92,100-102
+os/APPROVAL_RECOVERY.md
+  s_4dcdc8e670f4b0::t_246d1aceefda86 23
+os/README.md
+  s_4dcdc8e670f4b0::t_3873617e167ffb 69-71
+os/STARTER_PROMPTS.md
+  s_4dcdc8e670f4b0::t_bedf4365a2f310 1-50
+scripts/derive-starters.mjs
+  s_4dcdc8e670f4b0::t_3f15231b65141d 19-25,133,164,170,173,176-177,219
+scripts/verify-os-guidance.mjs
+  s_4dcdc8e670f4b0::t_3b13b0fabe21a9 6,43-45
+starter-overlays/hub/README.md
+  s_4dcdc8e670f4b0::t_c861e48450936d 12-13,23-39,42,45-58
+starters/card-2-code-review/.github/workflows/verify.yml
+  s_4dcdc8e670f4b0::t_addc69715a4df3 1-18
+starters/card-2-code-review/README.md
+  s_4dcdc8e670f4b0::t_bb344fe31f4fc0 142,145,148-149
+starters/card-3-inbox-agent/.github/workflows/verify.yml
+  s_4dcdc8e670f4b0::t_12f936dddf0531 1-18
+starters/card-3-inbox-agent/README.md
+  s_4dcdc8e670f4b0::t_dfa4dca57cd38b 119,122,125-126
+starters/card-4-cross-system/.github/workflows/verify.yml
+  s_4dcdc8e670f4b0::t_8edc84cd1a1d0d 1-18
+starters/card-4-cross-system/README.md
+  s_4dcdc8e670f4b0::t_db6f722ff17ccd 139,142,145-146
+starters/card-5-watcher/.github/workflows/verify.yml
+  s_4dcdc8e670f4b0::t_7c2b24127c2826 1-18
+starters/card-5-watcher/README.md
+  s_4dcdc8e670f4b0::t_41b70c18f95b50 143,146,149-150
+starters/peer-point-montreal/README.md
+  s_4dcdc8e670f4b0::t_78739ab1a34703 12-13,23-39,42,45-58
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.6.10",
+  "base_commit_sha": "d0cf63f7a8c9c1e8aff1e874aa5c74814ab6dcf2",
+  "prompts": {},
+  "sessions": {
+    "s_4dcdc8e670f4b0": {
+      "agent_id": {
+        "tool": "devin",
+        "id": "s_4dcdc8e670f4b0",
+        "model": "unknown"
+      },
+      "human_author": "Nikhil <vnikhilbuddhavarapu@outlook.com>"
+    },
+    "s_d2608fccc9884f": {
+      "agent_id": {
+        "tool": "windsurf",
+        "id": "navy-scion",
+        "model": "unknown"
+      },
+      "human_author": "Nikhil <vnikhilbuddhavarapu@outlook.com>"
+    }
+  }
+}
