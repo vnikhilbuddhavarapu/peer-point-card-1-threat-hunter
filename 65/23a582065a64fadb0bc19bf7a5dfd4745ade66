@@ -1,0 +1,23 @@
+docs/phase-6.md
+  s_cfaa15faf73385::t_4f085b066cccdc 26-50
+starter-overlays/card-3-inbox-agent/.dev.vars.example
+  s_cfaa15faf73385::t_c6ac29f3a3fea7 1
+starters/card-3-inbox-agent/.dev.vars.example
+  s_cfaa15faf73385::t_74e5f15a597325 1
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.6.10",
+  "base_commit_sha": "6523a582065a64fadb0bc19bf7a5dfd4745ade66",
+  "prompts": {},
+  "sessions": {
+    "s_cfaa15faf73385": {
+      "agent_id": {
+        "tool": "devin",
+        "id": "s_cfaa15faf73385",
+        "model": "unknown"
+      },
+      "human_author": "Nikhil <vnikhilbuddhavarapu@outlook.com>"
+    }
+  }
+}
