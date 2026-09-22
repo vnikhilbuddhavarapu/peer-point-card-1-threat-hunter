@@ -1,0 +1,37 @@
+starters/card-1-threat-hunter/package-lock.json
+  s_d2608fccc9884f::t_a387bafb04b98b 44-46,4145-4147
+starters/card-2-code-review/package-lock.json
+  s_d2608fccc9884f::t_ed941c7fa2fd9d 45-47,4192-4194
+starters/card-3-inbox-agent/package-lock.json
+  s_d2608fccc9884f::t_c8126f03ec5ba0 44-46,4145-4147
+starters/card-4-cross-system/package-lock.json
+  s_d2608fccc9884f::t_2272dffd20edfa 45-47,4144-4146
+starters/card-5-watcher/package-lock.json
+  s_d2608fccc9884f::t_c56e6b76220f31 44-46,4145-4147
+scripts/derive-starters.mjs
+  s_ec3844b9ba3852::t_f6f49e2a0191ea 200-203,233-239
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.6.10",
+  "base_commit_sha": "bf379bb4ae4adca17b62701c87471e4c7e33349e",
+  "prompts": {},
+  "sessions": {
+    "s_d2608fccc9884f": {
+      "agent_id": {
+        "tool": "windsurf",
+        "id": "navy-scion",
+        "model": "unknown"
+      },
+      "human_author": "Nikhil <vnikhilbuddhavarapu@outlook.com>"
+    },
+    "s_ec3844b9ba3852": {
+      "agent_id": {
+        "tool": "devin",
+        "id": "s_ec3844b9ba3852",
+        "model": "unknown"
+      },
+      "human_author": "Nikhil <vnikhilbuddhavarapu@outlook.com>"
+    }
+  }
+}
