@@ -1,0 +1,27 @@
+starters/card-1-threat-hunter/package-lock.json
+  s_678f80966df981::t_8ef3e5ed1f8c26 44-46,4145-4147
+starters/card-2-code-review/package-lock.json
+  s_678f80966df981::t_3a6c40ab93a94d 45-47,4192-4194
+starters/card-3-inbox-agent/package-lock.json
+  s_678f80966df981::t_f74a0ef2604472 44-46,4145-4147
+starters/card-4-cross-system/package-lock.json
+  s_678f80966df981::t_678759f5e5fa41 45-47,4144-4146
+starters/card-5-watcher/package-lock.json
+  s_678f80966df981::t_2bd6c46ae6a152 44-46,4145-4147
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.6.10",
+  "base_commit_sha": "62b03f5be9ca55c44bb5641cf513f66280b55fa3",
+  "prompts": {},
+  "sessions": {
+    "s_678f80966df981": {
+      "agent_id": {
+        "tool": "devin",
+        "id": "s_678f80966df981",
+        "model": "unknown"
+      },
+      "human_author": "Nikhil <vnikhilbuddhavarapu@outlook.com>"
+    }
+  }
+}
